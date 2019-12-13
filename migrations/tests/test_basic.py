@@ -1,5 +1,5 @@
 import unittest
-from migrations.credentials import APIKeys
+from credentials import APIKeys
 
 class TestCredentials(unittest.TestCase):
     def setUp(self):
